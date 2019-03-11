@@ -6,3 +6,4 @@ summary(x)
 mean(x)
 
 mean(y)
+str(y)
