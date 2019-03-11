@@ -7,3 +7,6 @@ mean(x)
 
 mean(y)
 str(y)
+
+lalala
+
